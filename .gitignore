@@ -1,0 +1,5 @@
+/src/
+main.exe
+SDL2.dll
+Makefile
+/.vscode/
