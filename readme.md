@@ -15,7 +15,7 @@ To run the Sorting Visualizer using the provided C++ source code, you have two o
 
 2. **Video Tutorial**: If you prefer a visual guide, you can watch this helpful video tutorial: [How to download and setup SDL2 library](https://youtu.be/jUZZC9UXyFs?si=HhUmZlBwiwdSbnvH). The video provides step-by-step instructions for setting up SDL2.
 
-Once you've set up the SDL2 library, include the Sorting Visualizer.cpp file from the repository into your project. Follow the build options mentioned in the tutorial or video tutorial. If you encounter any issues during setup, you can refer back to the documentation or the video tutorial for assistance.
+Once you've set up the SDL2 library, include the main.cpp file from the repository into your project. Follow the build options mentioned in the tutorial or video tutorial. If you encounter any issues during setup, you can refer back to the documentation or the video tutorial for assistance.
  
 # Controls:-
 
